@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tictactoe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tictactoe_jar</output-path>
+    <root id="archive" name="Tictactoe.jar">
+      <element id="module-output" name="Tictactoe" />
+    </root>
+  </artifact>
+</component>
